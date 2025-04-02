@@ -16,7 +16,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 ## Installation
 
 1. Pastikan Python Terinstal
-Jika Python belum terinstal, unduh dari situs resmi Python. Setelah itu, pastikan Python dapat diakses lewat terminal atau command prompt dengan menjalankan perintah berikut:
+Jika python belum terinstal, download dulu [di sini](https://www.python.org/downloads/). Lalu pastikan Python dapat diakses lewat terminal atau command prompt dengan menjalankan perintah berikut:
 
 ```bash
 python --version  #py atau python
